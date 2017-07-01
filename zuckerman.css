@@ -1,0 +1,137 @@
+/* Style sheet for The Paintings of Elliott Zuckerman */
+
+body {
+background-color:#ffffff;
+color:#323232;
+margin-top:40px;
+}
+
+#headwrap {
+width:100%;
+}
+
+#headleft {
+padding-left:35px;
+padding-bottom:5px;
+padding-right:50px;
+float:left;
+}
+
+#headright {
+margin-top:1px;
+padding-right:50px;
+padding-left:50px;
+float:right;
+font-family:Verdana, Sans-serif;
+font-size:9px;
+line-height:16px;
+}
+
+#headright ul {
+margin-left:0px;
+padding-left:0px;
+display:inline;
+}
+
+#headright li {
+margin-left:0px;
+padding-left:7px;
+padding-right:7px;
+display:inline;
+list-style-type:none;
+}
+
+#canvas {
+margin-left:50px;
+margin-right:50px;
+clear:both;
+margin-left:auto;
+margin-right:auto;
+padding-left:12px;
+padding-top:20px;
+font-family:Georgia, Times, Serif;
+font-size:16px;
+line-height:24px;
+text-align:center;
+list-style-type:none;
+}
+
+#canvas a {
+color:#0040b6;
+background-color:inherit;
+text-decoration:none;
+}
+
+#canvas a:hover {
+color:#323232;
+background-color:inherit;
+text-decoration:none;
+}
+
+#headline {
+width:100%;
+clear:both;
+border-bottom:1px solid #cccccc;
+}
+
+#pagination {
+color:inherit;
+background-color:inherit;
+font-size:11px;
+line-height:17px;
+font-family:Verdana, Sans-serif;
+}
+
+#pagination a {
+color:#888;
+background-color:inherit;
+text-decoration:none;
+border:none;
+}
+
+#pagination a:hover {
+color:#323232;
+background-color:inherit;
+text-decoration:none;
+border:none;
+}
+
+#imginfo {
+width:500px;
+padding-top:3px;
+margin-left:auto;
+margin-right:auto;
+font-family:Verdana, Sans-serif;
+font-size:12px;
+}
+
+.textpost {
+margin-top:-5px;
+margin-left:auto;
+margin-right:auto;
+text-align:justify;
+}
+
+.justified {
+width:700px;
+margin-left:auto;
+margin-right:auto;
+text-align:justify;
+}
+
+.photopost {
+width:auto;
+margin-left:auto;
+margin-right:auto;
+font-family:Verdana, Helvetica, Arial, Sans-serif;
+font-size:9px;
+text-align:center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family:Georgia, Times, Serif;
+}
+
+img {
+border:none;
+}
